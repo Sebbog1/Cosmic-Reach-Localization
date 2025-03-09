@@ -6,7 +6,7 @@
     "fallbacks": ["nn_no"]
   },
   "formatPercent": "#%",
-  "startButton": "Start",
+  "startButton": "Enspiller",
   "loadButton": "Åpne lagringsmappen",
   "optionsButton": "Innstillinger",
   "quitButton": "Avslutt",
@@ -17,6 +17,7 @@
   "mouseSensitivitySlider": "Musesensitivitet: ",
   "soundSlider": "Lyder: ",
   "musicSlider": "Muskk: ",
+  "musicFreqSlider": "Musikk Frekvens I Minutter: ",
   "fovSlider": "Synsfelt: ",
   "maxFPS": "Maks tillat FPS: ",
   "maxFPSUnlimited": "Maks FPS: Ubegrenset",
@@ -66,6 +67,7 @@
   "Use_Place": "Bruk / Plasser",
   "Open_Chat": "Åpne kommandolinjen",
   "No_Clip": "Spøkelsesmodus",
+  "Change_Perspective": "Endre perspektiv",
   "Reload_Shaders": "Last inn Shaders på nytt",
   "Fullscreen": "Fullskjerm",
   "Create_New_World": "Lag ny verden",
@@ -111,5 +113,7 @@
   "multiplayerAddressButton": "Serveraddresse: ",
   "multiplayerJoinButton": "Bli med",
   "multiplayerBadDisconnect": "Frakoblet! Grunn:",
-  "textDisplayInput": "Skriv inn her..."
+  "textDisplayInput": "Skriv inn her...",
+  "skinChangeLabel": "Endre Hud",
+  "skinFileDesc": "PNG fil med 128x64 piksler"
 }
